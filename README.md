@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [Discord](https://discordapp.com/users/521718936635441152/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
--->
+-->[![Madmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderMADMAX)](https://github.com/CoderMADMAX/github-readme-stats)
