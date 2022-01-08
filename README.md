@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything about coding.
-- 📫 How to reach me: [Gmail](https://mail.google.com/mail/u/0/#inbox?compose=new)
+- 📫 How to reach me: [Discord](https://discordapp.com/users/521718936635441152/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact:
 -->
