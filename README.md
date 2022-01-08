@@ -1,4 +1,4 @@
-  - <p>👋 Hi, I’m @ammarkhan575</p>
+  - <p>👋 Hi, I’m Nilanjit</p>
   - <p>👀 I’m interested in web development.</p>
   - <p>🌱 I’m currently learning C++ language.</p>
   - <p>💞️ I’m looking to collaborate on ...</p>
@@ -14,14 +14,13 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
   <img align="center" alt="Rafa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Cplusplus/Cplusplus-original.svg">
 </div>
-  
 <hr>
 <div>
-  <a href="https://instagram.com/mohdammar5757" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:ammarkhan575@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ammarkhan575" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/i.am.madmax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:nilanjit.baban07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/nilanjit-phulia-a9b365196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
   <hr>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=ammarkhan575.ammarkhan575">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=CoderMADMAX.CoderMADMAX">
    
 
