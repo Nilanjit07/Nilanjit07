@@ -1,15 +1,27 @@
-𝑯𝒊 𝒕𝒉𝒆𝒓𝒆, 𝑻𝒉𝒊𝒔 𝒊𝒔 𝑪𝒐𝒅𝒆𝒓𝑴𝑨𝑫𝑴𝑨𝑿. 𝑾𝒆𝒍𝒄𝒐𝒎𝒆 𝒕𝒐 𝒎𝒚 𝒑𝒓𝒐𝒇𝒊𝒍𝒆!👋
-- 🔭 I’m currently working on ... 
-- 🌱 I’m currently learning C++ .
-- 👯 I’m looking to collaborate on ... 
-- 🤔 I’m interested in web development.
-- 💬 Ask me about anything about coding.
-- 📫 How to reach me: [Discord](https://discordapp.com/users/521718936635441152/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact:
+  - <p>👋 Hi, I’m @ammarkhan575</p>
+  - <p>👀 I’m interested in web development.</p>
+  - <p>🌱 I’m currently learning C++ language.</p>
+  - <p>💞️ I’m looking to collaborate on ...</p>
+<div align="center">
+  <a href="https://github.com/CoderMADMAX">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CoderMADMAX&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMADMAX&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  <hr>
+  <div style="display: inline_block"><br>
+   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"
+  <img align="center" alt="Rafa-Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/Cplusplus/Cplusplus-original.svg">
+</div>
+  
+<hr>
+<div>
+  <a href="https://instagram.com/mohdammar5757" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:ammarkhan575@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/ammarkhan575" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ </div>
+  <hr>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=ammarkhan575.ammarkhan575">
+   
 
-![Madmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderMADMAX&show_icons=true&theme=dracula)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMADMAX&layout=compact)](https://github.com/CoderMADMAX/github-readme-stats)
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderMADMAX&repo=github-readme-stats" />
-</a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=CoderMADMAX&repo=convoychat" />
-</a>
