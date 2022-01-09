@@ -30,6 +30,7 @@
   <a href="https://www.linkedin.com/in/nilanjit-phulia-a9b365196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/users/521718936635441152/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/nilanjit.ghosal" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/NILANJIT07" target="_blank"><img src="https://img.shields.io/badge/-twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
  </div>
   <hr>
   <div align="center">
