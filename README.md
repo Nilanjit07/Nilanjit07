@@ -4,8 +4,8 @@
   - <p>💞️ Coding is Life. </p>
 <div align="center">
   <a href="https://github.com/CoderMADMAX">
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=CoderMADMAX&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMADMAX&layout=compact&langs_count=7&theme=tokyonight"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Nilanjit07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilanjit07&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <hr>
   <div align="center" style="display: inline_block"><br>
@@ -25,6 +25,6 @@
   <a href="https://www.facebook.com/nilanjit.ghosal" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  </div>
   <hr>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=CoderMADMAX.CoderMADMAX">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=Nilanjit07.Nilanjit07">
    
 
