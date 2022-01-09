@@ -22,15 +22,16 @@
     <a href="https://www.hackerrank.com/IAmMADMAX" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="IAmMADMAX" height="30" width="40" /></a>
     <a href="https://leetcode.com/IAmMADMAX/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="IAmMADMAX" height="30" width="40" /></a>
     <a href="https://auth.geeksforgeeks.org/user/iammadmax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="iammadmax" height="30" width="40" /></a>
+  </div>
 <hr>
 <div align="center">
-  <a href="https://instagram.com/i.am.madmax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
   <a href = "mailto:nilanjit.baban07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://instagram.com/i.am.madmax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nilanjit-phulia-a9b365196" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://discord.com/users/521718936635441152/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/nilanjit.ghosal" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  </div>
   <hr>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=Nilanjit07.Nilanjit07">
+  <img src="https://komarev.com/ghpvc/?username=Nilanjit07&label=Profile%20views&color=0e75b6&style=flat">
    
 
