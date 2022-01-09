@@ -8,7 +8,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nilanjit07&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   <hr>
-  <div align="center" style="display: inline_block"><br>
+  <div align="center" style="display: inline_block">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg">
   <img align="center" alt="Rafa-Cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg">
