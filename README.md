@@ -32,6 +32,7 @@
   <a href="https://www.facebook.com/nilanjit.ghosal" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  </div>
   <hr>
-  <img align = "center" src="https://komarev.com/ghpvc/?username=Nilanjit07&label=Profile%20views&color=0e75b6&style=flat">
+  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nilanjit07&label=Profile%20views&color=0e75b6&style=flat">
    
 
