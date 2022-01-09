@@ -16,6 +16,9 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg">
 </div>
+  <hr>
+  <div align="center">
+    <a href="https://www.codechef.com/users/i_am_madmax" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="i_am_madmax" height="30" width="40" /></a>
 <hr>
 <div align="center">
   <a href="https://instagram.com/i.am.madmax" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank"></a>
@@ -24,7 +27,6 @@
   <a href="https://discord.com/users/521718936635441152/" target="_blank"><img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.facebook.com/nilanjit.ghosal" target="_blank"><img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
  </div>
-  <hr>
   <hr>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Nilanjit07.Nilanjit07">
    
